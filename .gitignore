@@ -1,3 +1,4 @@
 # Ignore all CSV and RSC output files
 *.csv
 *.rsc
+input_ips.tx
