@@ -1,0 +1,3 @@
+# Ignore all CSV and RSC output files
+*.csv
+*.rsc
